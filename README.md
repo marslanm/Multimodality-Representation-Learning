@@ -1,3 +1,3 @@
-# Multimodal---Proposal-NLP-702-
+# Multimodal Data, challenges and Advanced methodologies for NLP
 
-This is the final version so far.
+The current version contains the general intuition of artcile.
