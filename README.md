@@ -3,12 +3,12 @@
 The current version contains the general intuition of artcile.
 
 ## Current Target 
-Introduction & Background
-Data (single-modal, multi-modal)
-Technique (Traditional vs Pretraining)
-Applications (NLP, CV, multi-modal tasks, orther complex tasks)
-Future Work
-Conclusion
+- Introduction & Background
+- Data (single-modal, multi-modal)
+- Technique (Traditional vs Pretraining)
+- Applications (NLP, CV, multi-modal tasks, orther complex tasks)
+- Future Work
+- Conclusion
 
 Relevant Stuff shared by Zaigio Meng
 https://arxiv.org/abs/2202.03052
