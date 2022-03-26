@@ -1,7 +1,5 @@
 # Multimodal Data, challenges and Advanced methodologies for NLP
 
-The current version contains the general intuition of artcile.
-
 ## Current Target 
 - Introduction & Background
 - Data (single-modal, multi-modal)
@@ -10,12 +8,29 @@ The current version contains the general intuition of artcile.
 - Future Work
 - Conclusion
 
-Relevant Stuff shared by Zaigio Meng
-https://arxiv.org/abs/2202.03052
-https://kgspace.github.io/
-https://arxiv.org/pdf/2201.11732.pdf
-http://arxiv.org/abs/2201.11147
-https://arxiv.org/abs/2007.02835
+## Multimodal Papers
+Comprehensive reading list for **Multimodal Literature** including most of the sections that required to write survey.[Github Link](https://github.com/pliang279/awesome-multimodal-ml#survey-papers)
+
+
+## The Following list contains the paper that are not available in above Github Repo.
+### Sample Survey
+[Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://arxiv.org/pdf/2107.13586.pdf)
+[Machine Learning Testing: Survey, Landscapes and Horizons](https://arxiv.org/pdf/1906.10742.pdf)
+
+### Multimodal Survey
+[Recent Advances and Trends in Multimodal Deep Learning: A Review
+](https://arxiv.org/pdf/2105.11087.pdf)
+
+### Unifying Architecture 
+[Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework](https://arxiv.org/pdf/2202.03052.pdf)
+[IGLUE: A Benchmark for Transfer Learning
+across Modalities, Tasks, and Languages](https://arxiv.org/pdf/2201.11732.pdf)
+
+### Data
+[OntoProtein: Protein Pretraining With Gene Ontology Embedding](https://arxiv.org/pdf/2201.11147.pdf)
+[Self-Supervised Graph Transformer on Large-Scale Molecular Data](https://arxiv.org/pdf/2007.02835.pdf)
+
+### Applications 
 
 
 ## Updated Layout of Survey Paper
