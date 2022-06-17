@@ -95,3 +95,90 @@ CrisisMMD is a large multi-modal dataset from natural disasters collected from T
 MIMIC(Medical Information Mart for Intensive Care)  is a publicly available dataset developed by the Laboratory for Computational Physiology that comprises deidentified health data associated with thousands of intensive care unit admissions. Currently, it has three versions: MIMIC-II、MIMIC-III、MIMIC-IV. MIMIC-III contains information on 53423 different hospitalized adult patients admitted to critical care units from 2001 to 2012, such as the patient's gender, height, and other basic information, such as blood routine, liver function and other hosipital test data, as well as the patient's medication information.
 
 **MIMIC-III, a freely accessible critical care database.** *Johnson A E W, Pollard T J, Shen L, et al.* Scientific data, 2016, 3(1): 1-9. [[paper]](
+
+
+
+### 8.Fashion-200k
+
+Fashion200k contains 200K fashion images, and each image comes with a compact attribute-like product description.
+
+[[paper]][https://www.kaggle.com/datasets/mayukh18/fashion200k-dataset]
+
+https://openaccess.thecvf.com/content_CVPR_2019/html/Vo_Composing_Text_and_Image_for_Image_Retrieval_-_an_Empirical_CVPR_2019_paper.html
+
+### 9.MIT-Stata Center
+
+MIT-Stata Center is a multimodal dataset containing vision(stereo and RGB-D), laser and proprioceptive data. This dataset comprises over 2.3 TB, 38 h and 42 km. This dataset also includes ground-truth position estimates of the robot at every instance. This is a very useful dataset for robotic mapping and computer vision research.
+
+[[paper]][https://journals.sagepub.com/doi/abs/10.1177/0278364913509035]
+
+### 10. NYU Depth v1
+
+The NYU-Depth dataset consists of video sequences recorded by the RGB and Depth cameras from the Microsoft Kinect. NYU-Depth v1 provides about 4GB of labeled data and about 90GB of raw data. NYU-Depth v1 includes 64 different indoor scenes and 7 scene types. NYU-Depth v2 includes 464 different indoor scenes and 26 scene types.
+
+[[paper]][https://cs.nyu.edu/~silberman/datasets/nyu_depth_v1.html]
+
+https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html
+
+
+
+### 11.SKIG
+
+The Shefeld Kinect Gesture (SKIG) is a gesture dataset containing 2160 hand gesture sequences. These hand gestures can be classified into 10 categories:  circle (clockwise), triangle (anti-clockwise), up-down, right-left, wave, "Z", cross, come-here, turn-around, and pat. The sequences are recorded under 3 different backgrounds and 2 illumination conditions which provide diversity.
+
+[[paper]][https://mldta.com/dataset/shefeld-kinect-gesture-skig-dataset/]
+
+
+
+### 12.GoodNews
+
+GoodNews is a large dataset containing 466,000 images with captions, headlines, and text articles. However, different from datasets like MSCOCO or Flicker8k, GoodNews includes a single ground truth caption per image. GoodNews captions are written by expert journals, are longer on average than generic captioning datasets, meaning that these captions are more descriptive.
+
+**Ali Furkan Biten, Lluis Gomez, Marcal Rusinol, Dimosthenis Karatzas**; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2019, pp. 12466-12475 [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Biten_Good_News_Everyone_Context_Driven_Entity-Aware_Captioning_for_News_Images_CVPR_2019_paper.pdf)
+
+### 13.MSR-VTT
+
+MSR-VTT is a large-scale video description dataset containing 10K web video clips with 38.7 hours and 200K clip-sentence pairs in total. MSR-VTTwas created from 257  popular queries from a commercial video search engine. Each clip in MSR-VTT is annotated with approximately 20 natural sentences. This dataset is presented for video understanding.
+
+ [[paper]](https://openaccess.thecvf.com/content_cvpr_2016/html/Xu_MSR-VTT_A_Large_CVPR_2016_paper.html)
+
+### 14.MSVD-QA 
+
+The Microsoft Research Video Description Corpus (MSVD) dataset contains 122K descriptions of 2089 short video clips(usually less than 10 seconds). The MSVD dataset consists of different language descriptions, such as English, Hindi, Romanian, Slovene, etc. MSVD-QA is a benchmark dataset for video retrieval, visual question answering, and video captioning.
+
+ [[paper]](https://www.cs.utexas.edu/users/ml/clamp/videoDescription/)
+
+### 15. TGIF-QA
+
+TGIF-QA is a large-scale dataset containing 103,919 QA pairs collected from 56,720 animated GIFs. These GIFs are from the TGIF dataset. The TGIF dataset is based on GIFS data as GIFs have a concise format and cohesive storytelling nature. TGIF-QA can be used for visual question answering research.
+
+ [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/html/Jang_TGIF-QA_Toward_Spatio-Temporal_CVPR_2017_paper.html)
+
+### 16.EQA-v1
+
+EQA(Embodied Question Answering)v1.0 is a dataset containing 9,000 questions from 774 environments. The visual questions and answers in this dataset are grounded in House3D. EQA-v1 contains location, color, and place preposition questions. In order to answer the question, EQA has an agent to explore the house, and then the agent is trained to answer the question.
+
+ [[paper]](https://embodiedqa.org/data)
+
+https://openaccess.thecvf.com/content_CVPR_2019/html/Yu_Multi-Target_Embodied_Question_Answering_CVPR_2019_paper.html
+
+### 17.VideoNavQA
+
+VideoNavQA is also a dataset used to study the EQA task. VideoNavQA contains 28 questions belonging to 8 categories with 70 possible answers. The complexity of the questions in VideoNavQA far exceeds that of similar tasks that use generation methods that extract ground truth information from video to generate questions.
+
+ [[paper]](https://bmvc2019.org/wp-content/uploads/papers/1125-paper.pdf)
+
+### 18.TDIUC
+
+Task Directed Image Understanding Challenge (TDIUC) is a dataset containing 167,437 Images and 1,654,167 question-answer pairs. TDIUC divides VQA into 12 constituent tasks, which makes it easier to measure and compare the performance of VQA algorithms. The 12 different question-types are grouped according to these tasks.
+
+ [[paper]][https://kushalkafle.com/projects/tdiuc.html]
+
+### 19.nuScenes
+
+nuScenes is a public large-scale dataset for autonomous driving dataset with 3d object annotations. It is also a multimodal dataset. nuScenes provides 1.4 million camera images, 1500h of driving data from 4 cities (Boston, Pittsburgh, Las Vegas and Singapore),  sensor data released for 150h (5x LIDAR, 8x camera, IMU, GPS), detailed map information, 1.4M 3D bounding boxes manually annotated for 23 object classes, etc. nuScenes can be used for intelligent agent research.
+
+nuImages is a large-scale autonomous driving dataset with image-level 2d annotations. It has 93k video clips of 6s each, 93k annotated and 1.1M un-annotated images. 
+
+[[paper]][https://www.nuscenes.org/]
+
