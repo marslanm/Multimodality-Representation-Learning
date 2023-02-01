@@ -17,7 +17,6 @@ Comprehensive reading list for **Multimodal Literature** including most of the s
 [Recent Advances and Trends in Multimodal Deep Learning: A Review
 ](https://arxiv.org/pdf/2105.11087.pdf)
 
-### Data
 [OntoProtein: Protein Pretraining With Gene Ontology Embedding](https://arxiv.org/pdf/2201.11147.pdf)
 [Self-Supervised Graph Transformer on Large-Scale Molecular Data](https://arxiv.org/pdf/2007.02835.pdf)
 
