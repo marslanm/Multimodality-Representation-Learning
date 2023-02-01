@@ -1,7 +1,7 @@
 # Multimodality Representation Learning: A Survey on Evolution, Pretraining and Its Applications
 
 ## Multimodal Deep Learnig based Research
-- Survey Papers
+- Survey Papers (## Survey Papers)
 - Task-specific Methods
 - Pretrainig Approaches
 - Multimodal Applications (Understanidng, Classification, Generation, Retrieval, Translation)
@@ -23,7 +23,7 @@ Comprehensive reading list for **Multimodal Literature** including most of the s
 
 ###  Task-specific Methods
 
-### Pre-training Approaches
+### Pretraining Approaches
 -    Unifying Achitectures
 
 ### Multimodal Applications 
