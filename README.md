@@ -2,11 +2,11 @@
 
 ## Multimodal Deep Learnig based Research
 
-- Survey Papers
-- Task-specific Methods
-- Pretrainig Approaches
-- Multimodal Applications (Understanidng, Classification, Generation, Retrieval, Translation)
-- Datasets
+* Survey Papers
+* Task-specific Methods
+* Pretrainig Approaches
+* Multimodal Applications (Understanidng, Classification, Generation, Retrieval, Translation)
+* Datasets
 
 ## Survey Papers
 
@@ -114,7 +114,7 @@ cluster prediction](https://arxiv.org/abs/2201.02184)
 
 [HuBERT: How much can a bad teacher benefit ASR pre-training?](https://ieeexplore.ieee.org/abstract/document/9414460/)
 
-- Unifying Achitectures
+#### Unifying Achitectures
 
 [Bert: Pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/abs/1810.04805)
 
@@ -134,7 +134,7 @@ cluster prediction](https://arxiv.org/abs/2201.02184)
 
 ### Multimodal Applications
 
-- Understanding
+#### Understanding
   
   [Learning audio-visual speech representation by masked multimodal cluster prediction](https://arxiv.org/abs/2201.02184)
   
@@ -178,7 +178,7 @@ cluster prediction](https://arxiv.org/abs/2201.02184)
   
   [The sound of pixels](http://openaccess.thecvf.com/content_ECCV_2018/html/Hang_Zhao_The_Sound_of_ECCV_2018_paper.html)
 
-- Classification
+#### Classification
 
 [Vqa: Visual question answering](http://openaccess.thecvf.com/content_iccv_2015/html/Antol_VQA_Visual_Question_ICCV_2015_paper.html)
 
@@ -218,7 +218,7 @@ cluster prediction](https://arxiv.org/abs/2201.02184)
 
 [Vision-language navigation with self-supervised auxiliary reasoning tasks](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhu_Vision-Language_Navigation_With_Self-Supervised_Auxiliary_Reasoning_Tasks_CVPR_2020_paper.html)
 
-- Generation
+#### Generation
 
 [Recent advances and trends in multimodal deep learning: A review](https://arxiv.org/abs/2105.11087)
 
@@ -282,7 +282,7 @@ cluster prediction](https://arxiv.org/abs/2201.02184)
 
 [Video-driven speech reconstruction using generative adversarial networks](https://arxiv.org/abs/1906.06301)
 
-- Retrieval
+#### Retrieval
 
 [Vilbert: Pretraining task-agnostic visiolinguistic representations for vision-and-language tasks](https://proceedings.neurips.cc/paper/2019/hash/c74d97b01eae257e44aa9d5bade97baf-Abstract.html)
 
@@ -294,7 +294,7 @@ cluster prediction](https://arxiv.org/abs/2201.02184)
 
 [Clinically accurate chest x-ray report generation](http://proceedings.mlr.press/v106/liu19a.html)
 
-- Translation
+#### Translation
 
 [Deep residual learning for image recognition](http://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html)
 
