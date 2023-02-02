@@ -8,7 +8,7 @@
 * Multimodal Applications (Understanidng, Classification, Generation, Retrieval, Translation)
 * Datasets
 
-## Survey Papers
+# Survey Papers
 
 Comprehensive reading list for **Multimodal Literature** including most of the sections that required to write survey.[Github Link](https://github.com/pliang279/awesome-multimodal-ml#survey-papers)
 
@@ -21,7 +21,7 @@ Comprehensive reading list for **Multimodal Literature** including most of the s
 [OntoProtein: Protein Pretraining With Gene Ontology Embedding](https://arxiv.org/pdf/2201.11147.pdf)
 [Self-Supervised Graph Transformer on Large-Scale Molecular Data](https://arxiv.org/pdf/2007.02835.pdf)
 
-## Task-specific Methods
+# Task-specific Methods
 
 [Improving Image Captioning by Leveraging Intra- and Inter-layer Global Representation in Transformer Network](https://ojs.aaai.org/index.php/AAAI/article/view/16258)
 
@@ -45,7 +45,7 @@ Comprehensive reading list for **Multimodal Literature** including most of the s
 
 [Multi-relational graph representation learning with bayesian gaussian process network](https://doi.org/10.1609/aaai.v36i5.20492)
 
-### Pretraining Approaches
+# Pretraining Approaches
 
 [Learning audio-visual speech representation by masked multimodal
 cluster prediction](https://arxiv.org/abs/2201.02184)
@@ -114,7 +114,7 @@ cluster prediction](https://arxiv.org/abs/2201.02184)
 
 [HuBERT: How much can a bad teacher benefit ASR pre-training?](https://ieeexplore.ieee.org/abstract/document/9414460/)
 
-#### Unifying Achitectures
+## Unifying Achitectures
 
 [Bert: Pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/abs/1810.04805)
 
@@ -132,9 +132,9 @@ cluster prediction](https://arxiv.org/abs/2201.02184)
 
 [Bart: Denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension](https://arxiv.org/abs/1910.13461)
 
-### Multimodal Applications
+# Multimodal Applications
 
-#### Understanding
+## Understanding
   
   [Learning audio-visual speech representation by masked multimodal cluster prediction](https://arxiv.org/abs/2201.02184)
   
@@ -178,7 +178,7 @@ cluster prediction](https://arxiv.org/abs/2201.02184)
   
   [The sound of pixels](http://openaccess.thecvf.com/content_ECCV_2018/html/Hang_Zhao_The_Sound_of_ECCV_2018_paper.html)
 
-#### Classification
+## Classification
 
 [Vqa: Visual question answering](http://openaccess.thecvf.com/content_iccv_2015/html/Antol_VQA_Visual_Question_ICCV_2015_paper.html)
 
@@ -218,7 +218,7 @@ cluster prediction](https://arxiv.org/abs/2201.02184)
 
 [Vision-language navigation with self-supervised auxiliary reasoning tasks](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhu_Vision-Language_Navigation_With_Self-Supervised_Auxiliary_Reasoning_Tasks_CVPR_2020_paper.html)
 
-#### Generation
+## Generation
 
 [Recent advances and trends in multimodal deep learning: A review](https://arxiv.org/abs/2105.11087)
 
@@ -282,7 +282,7 @@ cluster prediction](https://arxiv.org/abs/2201.02184)
 
 [Video-driven speech reconstruction using generative adversarial networks](https://arxiv.org/abs/1906.06301)
 
-#### Retrieval
+## Retrieval
 
 [Vilbert: Pretraining task-agnostic visiolinguistic representations for vision-and-language tasks](https://proceedings.neurips.cc/paper/2019/hash/c74d97b01eae257e44aa9d5bade97baf-Abstract.html)
 
@@ -294,7 +294,7 @@ cluster prediction](https://arxiv.org/abs/2201.02184)
 
 [Clinically accurate chest x-ray report generation](http://proceedings.mlr.press/v106/liu19a.html)
 
-#### Translation
+## Translation
 
 [Deep residual learning for image recognition](http://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html)
 
@@ -304,7 +304,7 @@ cluster prediction](https://arxiv.org/abs/2201.02184)
 
 [Multi-modal neural machine translation with deep semantic interactions](https://www.sciencedirect.com/science/article/pii/S0020025520311105)
 
-### Multimodal Datasets
+# Multimodal Datasets
 
 [Vqa: Visual question answering](http://openaccess.thecvf.com/content_iccv_2015/html/Antol_VQA_Visual_Question_ICCV_2015_paper.html)
 
@@ -371,3 +371,22 @@ cluster prediction](https://arxiv.org/abs/2201.02184)
 [Flava: A foundational language and vision alignment model](http://openaccess.thecvf.com/content/CVPR2022/html/Singh_FLAVA_A_Foundational_Language_and_Vision_Alignment_Model_CVPR_2022_paper.html)
 
 [Uc2: Universal cross-lingual cross-modal vision-and-language pre-training](http://openaccess.thecvf.com/content/CVPR2021/html/Zhou_UC2_Universal_Cross-Lingual_Cross-Modal_Vision-and-Language_Pre-Training_CVPR_2021_paper.html)
+
+# Citation
+@misc{https://doi.org/10.48550/arxiv.2302.00389,
+  doi = {10.48550/ARXIV.2302.00389},
+  
+  url = {https://arxiv.org/abs/2302.00389},
+  
+  author = {Manzoor, Muhammad Arslan and Albarri, Sarah and Xian, Ziting and Meng, Zaiqiao and Nakov, Preslav and Liang, Shangsong},
+  
+  keywords = {Artificial Intelligence (cs.AI), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {Multimodality Representation Learning: A Survey on Evolution, Pretraining and Its Applications},
+  
+  publisher = {arXiv},
+  
+  year = {2023},
+  
+  copyright = {Creative Commons Attribution 4.0 International}
+}
