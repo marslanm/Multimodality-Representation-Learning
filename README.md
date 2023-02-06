@@ -10,8 +10,12 @@
 
 # Survey
 
+[**Multimodality Representation Learning: A Survey on Evolution, Pretraining and Its Applications.**](http://arxiv.org/abs/2302.00389)[1st Feb., 2023] <br>.
+*[Muhammad Arslan Manzoor](https://scholar.google.com/citations?hl=en&user=ZvXClnUAAAAJ), [Sarah Albarri](), [Ziting Xian](), [Zaiqiao Meng](https://scholar.google.com/citations?user=5jJKFVcAAAAJ&hl=en), [Preslav Nakov](https://scholar.google.com/citations?user=DfXsKZ4AAAAJ&hl=en), and [Shangsong Liang](https://scholar.google.com/citations?user=4uggVcIAAAAJ&h).*<br>
+[[PDF](https://arxiv.org/abs/2302.00389)] 
+
 **Comprehensive reading list for Multimodal Literature** <br>
-[[Github Link](https://github.com/pliang279/awesome-multimodal-ml#survey-papers)]
+[[Github](https://github.com/pliang279/awesome-multimodal-ml#survey-papers)]
 
 **Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing** <br>
 [[PDF](https://arxiv.org/pdf/2107.13586.pdf)]
