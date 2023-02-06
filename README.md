@@ -373,9 +373,12 @@ cluster prediction](https://arxiv.org/abs/2201.02184)
 [Uc2: Universal cross-lingual cross-modal vision-and-language pre-training](http://openaccess.thecvf.com/content/CVPR2021/html/Zhou_UC2_Universal_Cross-Lingual_Cross-Modal_Vision-and-Language_Pre-Training_CVPR_2021_paper.html)
 
 # Citation
+If you find the listing and survey useful for your work, please cite the paper:
+```
 @article{manzoor2023multimodality,
   title={Multimodality Representation Learning: A Survey on Evolution, Pretraining and Its Applications},
   author={Manzoor, Muhammad Arslan and Albarri, Sarah and Xian, Ziting and Meng, Zaiqiao and Nakov, Preslav and Liang, Shangsong},
   journal={arXiv preprint arXiv:2302.00389},
   year={2023}
 }
+```
