@@ -2,7 +2,7 @@
 
 ## Multimodal Deep Learnig based Research
 
-- [Survey Papers] (#survey)
+- [Survey Papers](#survey)
 * Task-specific Methods
 * Pretrainig Approaches
 * Multimodal Applications (Understanidng, Classification, Generation, Retrieval, Translation)
