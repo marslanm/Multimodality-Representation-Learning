@@ -10,9 +10,13 @@
 
 # Survey
 
-[**Multimodality Representation Learning: A Survey on Evolution, Pretraining and Its Applications.**](http://arxiv.org/abs/2302.00389)[1st Feb., 2023] <br>.
+[**Multimodality Representation Learning: A Survey on Evolution, Pretraining and Its Applications.**](http://arxiv.org/abs/2302.00389)[1st Feb., 2023] <br>
 *[Muhammad Arslan Manzoor](https://scholar.google.com/citations?hl=en&user=ZvXClnUAAAAJ), [Sarah Albarri](), [Ziting Xian](), [Zaiqiao Meng](https://scholar.google.com/citations?user=5jJKFVcAAAAJ&hl=en), [Preslav Nakov](https://scholar.google.com/citations?user=DfXsKZ4AAAAJ&hl=en), and [Shangsong Liang](https://scholar.google.com/citations?user=4uggVcIAAAAJ&h).*<br>
 [[PDF](https://arxiv.org/abs/2302.00389)] 
+
+**VLP: A survey on vision-language pre-training**<br>
+*Feilong Chen, Duzhen Zhang, Minglun Han, Xiuyi Chen, Jing Shi, Shuang Xu, and Bo Xu.*<br>
+[[PDF](https://link.springer.com/article/10.1007/s11633-022-1369-5)]
 
 **Comprehensive reading list for Multimodal Literature** <br>
 [[Github](https://github.com/pliang279/awesome-multimodal-ml#survey-papers)]
