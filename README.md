@@ -5,7 +5,7 @@
 - [Survey Papers](#survey)
 - [Task-specific Methods](#Task-specific-Methods)
 - [Pretrainig Approaches](#Pretraining-Approaches)
-- [Multimodal Applications](#Multimodal-Applications) (Understanidng, Classification, Generation, Retrieval, Translation)
+- [Multimodal Applications](#Multimodal-Applications) (Understanidng(#Understanding), Classification(#Classification), Generation(#Generation), Retrieval(#Retrieval), Translation(#Translation))
 - [Multimodal Datasets](#Multimodal-Datasets)
 
 # Survey
@@ -14,34 +14,34 @@
 *[Muhammad Arslan Manzoor](https://scholar.google.com/citations?hl=en&user=ZvXClnUAAAAJ), [Sarah Albarri](), [Ziting Xian](), [Zaiqiao Meng](https://scholar.google.com/citations?user=5jJKFVcAAAAJ&hl=en), [Preslav Nakov](https://scholar.google.com/citations?user=DfXsKZ4AAAAJ&hl=en), and [Shangsong Liang](https://scholar.google.com/citations?user=4uggVcIAAAAJ&h).*<br>
 [[PDF](https://arxiv.org/abs/2302.00389)] 
 
-**Vision-Language Pre-training:Basics, Recent Advances, and Future Trends.**[17 Oct, 2022]<br>
+**Vision-Language Pre-training:Basics, Recent Advances, and Future Trends.**[17th Oct, 2022]<br>
 *Zhe Gan, Linjie Li, Chunyuan Li, Lijuan Wang, Zicheng Liu, Jianfeng Gao.*<br>
 [[PDF](https://arxiv.org/pdf/2210.09263.pdf)]
 
-**VLP: A survey on vision-language pre-training.**[18 Feb, 2022]<br>
+**VLP: A survey on vision-language pre-training.**[18th Feb, 2022]<br>
 *Feilong Chen, Duzhen Zhang, Minglun Han, Xiuyi Chen, Jing Shi, Shuang Xu, and Bo Xu.*<br>
 [[PDF](https://link.springer.com/article/10.1007/s11633-022-1369-5)]
 
 
-**A Survey of Vision-Language Pre-Trained Models.**[18 Feb, 2022]<br>
+**A Survey of Vision-Language Pre-Trained Models.**[18th Feb, 2022]<br>
 *Yifan Du, Zikang Liu, Junyi Li, Wayne Xin Zhao.*<br>
 [[PDF](https://arxiv.org/abs/2202.10936)]
 
 
-**Vision-and-Language Pretrained Models: A Survey.**[15 Apr, 2022]<br>
+**Vision-and-Language Pretrained Models: A Survey.**[15th Apr, 2022]<br>
 *Siqu Long, Feiqi Cao, Soyeon Caren Han, Haiqin Yang.*<br>
 [[PDF](https://arxiv.org/abs/2204.07356)]
 
 **Comprehensive reading list for Multimodal Literature** <br>
 [[Github](https://github.com/pliang279/awesome-multimodal-ml#survey-papers)]
 
-**Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing** <br>
-[[PDF](https://arxiv.org/pdf/2107.13586.pdf)]
+**Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing.**[28th Jul, 2021]<br>
+*Pengfei Liu, Weizhe Yuan, Jinlan Fu, Zhengbao Jiang, Hiroaki Hayashi, Graham Neubig*<br>
+[[PDF](https://arxiv.org/abs/2107.13586)]
 
-[Machine Learning Testing: Survey, Landscapes and Horizons](https://arxiv.org/pdf/1906.10742.pdf)
-
-[Recent Advances and Trends in Multimodal Deep Learning: A Review
-](https://arxiv.org/pdf/2105.11087.pdf)
+**Recent Advances and Trends in Multimodal Deep Learning: A Review.**[24th May, 2021]<br>
+*Jabeen Summaira, Xi Li, Amin Muhammad Shoib, Songyuan Li, Jabbar Abdul.*<br>
+[[PDF](https://arxiv.org/pdf/2105.11087)]
 
 
 
