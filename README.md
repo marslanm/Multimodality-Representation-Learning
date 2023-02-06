@@ -5,7 +5,7 @@
 - [Survey Papers](#survey)
 - [Task-specific Methods](#Task-specific-Methods)
 - [Pretrainig Approaches](#Pretraining-Approaches)
-- [Multimodal Applications](#Multimodal-Applications) (Understanidng(#Understanding), Classification(#Classification), Generation(#Generation), Retrieval(#Retrieval), Translation(#Translation))
+- [Multimodal Applications](#Multimodal-Applications) ([Understanidng](#Understanding), [Classification](#Classification), [Generation](#Generation), [Retrieval](#Retrieval), [Translation](#Translation))
 - [Multimodal Datasets](#Multimodal-Datasets)
 
 # Survey
