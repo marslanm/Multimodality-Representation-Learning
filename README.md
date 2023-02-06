@@ -2,13 +2,13 @@
 
 ## Multimodal Deep Learnig based Research
 
-* Survey Papers
+- [Survey Papers] (#survey)
 * Task-specific Methods
 * Pretrainig Approaches
 * Multimodal Applications (Understanidng, Classification, Generation, Retrieval, Translation)
 * Datasets
 
-# Survey Papers
+# Survey
 
 Comprehensive reading list for **Multimodal Literature** including most of the sections that required to write survey.[Github Link](https://github.com/pliang279/awesome-multimodal-ml#survey-papers)
 
