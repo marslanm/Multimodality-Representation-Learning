@@ -3,10 +3,10 @@
 ## Multimodal Deep Learnig based Research
 
 - [Survey Papers](#survey)
-- [Task-specific Methods](#Task-specific Methods)
-* Pretrainig Approaches
-* Multimodal Applications (Understanidng, Classification, Generation, Retrieval, Translation)
-* Datasets
+- [Task-specific Methods](#Task-specific-Methods)
+- [Pretrainig Approaches](#Pretraining-Approaches)
+- [Multimodal Applications](#Multimodal-Applications) (Understanidng, Classification, Generation, Retrieval, Translation)
+- [Multimodal Datasets](#Multimodal-Datasets)
 
 # Survey
 
@@ -21,7 +21,7 @@ Comprehensive reading list for **Multimodal Literature** including most of the s
 [OntoProtein: Protein Pretraining With Gene Ontology Embedding](https://arxiv.org/pdf/2201.11147.pdf)
 [Self-Supervised Graph Transformer on Large-Scale Molecular Data](https://arxiv.org/pdf/2007.02835.pdf)
 
-# Task-specific Methods
+# Task-specific-Methods
 
 [Improving Image Captioning by Leveraging Intra- and Inter-layer Global Representation in Transformer Network](https://ojs.aaai.org/index.php/AAAI/article/view/16258)
 
@@ -45,7 +45,7 @@ Comprehensive reading list for **Multimodal Literature** including most of the s
 
 [Multi-relational graph representation learning with bayesian gaussian process network](https://doi.org/10.1609/aaai.v36i5.20492)
 
-# Pretraining Approaches
+# Pretraining-Approaches
 
 [Learning audio-visual speech representation by masked multimodal
 cluster prediction](https://arxiv.org/abs/2201.02184)
@@ -132,7 +132,7 @@ cluster prediction](https://arxiv.org/abs/2201.02184)
 
 [Bart: Denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension](https://arxiv.org/abs/1910.13461)
 
-# Multimodal Applications
+# Multimodal-Applications
 
 ## Understanding
   
@@ -304,7 +304,7 @@ cluster prediction](https://arxiv.org/abs/2201.02184)
 
 [Multi-modal neural machine translation with deep semantic interactions](https://www.sciencedirect.com/science/article/pii/S0020025520311105)
 
-# Multimodal Datasets
+# Multimodal-Datasets
 
 [Vqa: Visual question answering](http://openaccess.thecvf.com/content_iccv_2015/html/Antol_VQA_Visual_Question_ICCV_2015_paper.html)
 
