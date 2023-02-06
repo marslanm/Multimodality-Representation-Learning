@@ -10,7 +10,8 @@
 
 # Survey
 
-Comprehensive reading list for **Multimodal Literature** including most of the sections that required to write survey.[Github Link](https://github.com/pliang279/awesome-multimodal-ml#survey-papers)
+**Comprehensive reading list for Multimodal Literature** <br>
+[Github Link](https://github.com/pliang279/awesome-multimodal-ml#survey-papers)]
 
 [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://arxiv.org/pdf/2107.13586.pdf)
 [Machine Learning Testing: Survey, Landscapes and Horizons](https://arxiv.org/pdf/1906.10742.pdf)
