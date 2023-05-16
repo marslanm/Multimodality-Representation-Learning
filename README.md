@@ -1,4 +1,4 @@
-# Multimodality Representation Learning: A Survey on Evolution, Pretraining and Its Applications d
+# Multimodality Representation Learning: A Survey on Evolution, Pretraining and Its Applications
 
 ## Multimodal Deep Learnig based Research
 
