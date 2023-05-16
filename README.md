@@ -47,7 +47,11 @@
 
 # Task-specific-Methods
 
-[Improving Image Captioning by Leveraging Intra- and Inter-layer Global Representation in Transformer Network](https://ojs.aaai.org/index.php/AAAI/article/view/16258)
+**Improving Image Captioning by Leveraging Intra- and Inter-layer Global Representation in Transformer Network.**[9th Feb, 2021]
+
+*Jiayi Ji, Yunpeng Luo, Xiaoshuai Sun, Fuhai Chen, Gen Luo, Yongjian Wu, Yue Gao, Rongrong Ji*
+
+[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/16258)]
 
 [Cascaded Recurrent Neural Networks for Hyperspectral Image Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8662780)
 
