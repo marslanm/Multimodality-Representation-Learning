@@ -10,9 +10,9 @@
 
 # Survey
 
-[**Multimodality Representation Learning: A Survey on Evolution, Pretraining and Its Applications.**](http://arxiv.org/abs/2302.00389)[1st Feb., 2023] <br>
+[**Multimodality Representation Learning: A Survey on Evolution, Pretraining and Its Applications.**](https://dl.acm.org/doi/abs/10.1145/3617833)[1st Feb., 2023] <br>
 *[Muhammad Arslan Manzoor](https://scholar.google.com/citations?hl=en&user=ZvXClnUAAAAJ), [Sarah Albarri](), [Ziting Xian](https://scholar.google.com/citations?hl=zh-CN&user=G7VId5YAAAAJ&view_op=list_works&gmla=AJsN-F6TTZmzbi9CmBIRLNRpAhcgmzH-nOUd8hM5UTjfT5A_mYW2ABzjSrdX7ki9GFgGaId2dLlMtXBkfq7X_qzYOwF_OuvCCthMiuVNUuUiac-aGoSwsKQ), [Zaiqiao Meng](https://scholar.google.com/citations?user=5jJKFVcAAAAJ&hl=en), [Preslav Nakov](https://scholar.google.com/citations?user=DfXsKZ4AAAAJ&hl=en), and [Shangsong Liang](https://scholar.google.com/citations?user=4uggVcIAAAAJ&h).*<br>
-[[PDF](https://arxiv.org/abs/2302.00389)] 
+[[PDF](https://dl.acm.org/doi/abs/10.1145/3617833)] 
 
 **Vision-Language Pre-training:Basics, Recent Advances, and Future Trends.**[17th Oct, 2022]<br>
 *Zhe Gan, Linjie Li, Chunyuan Li, Lijuan Wang, Zicheng Liu, Jianfeng Gao.*<br>
