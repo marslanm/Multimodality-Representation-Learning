@@ -1,5 +1,5 @@
 # Multimodality Representation Learning: A Survey on Evolution, Pretraining and Its Applications
-![a](Fig_1_MML.png)
+![a](main.png)
 ## Multimodal Deep Learnig based Research
 
 - [Survey Papers](#survey)
